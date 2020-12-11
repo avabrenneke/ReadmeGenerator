@@ -16,8 +16,8 @@ This application includes
 - Beginning with the code, node index.js, a user can be prompted to fill in all of these sections to dynamically generate a professional READ.ME
 
 # GIF of Application
-![](assets/Dec-10-2020 21-08-56.gif)
-![](assets/Dec-10-2020 21-10-18.gif)
+![](assets/gif1.gif)
+![](assets/gif2.gif)
 
 # Link to Deployed Application 
 https://avabrenneke.github.io/ReadmeGenerator/
